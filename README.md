@@ -234,7 +234,7 @@ found here:
 
 2.  Andrew Knee, <andrew.knee@ufl.edu>
 
-3.  Daniel Parra, <dparra@ufl.edu>
+3.  Daniel Parra, <dparra1@ufl.edu>
 
 If you have questions about your application, feel free to reach out to
 us via email. If you would like to join our Discord, please email one of
