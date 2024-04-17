@@ -83,7 +83,7 @@ type, or your API should error out.
 
     -   Beta Type (enumerator of `male`, `female`)
 
-    -   Speed (enumerator of `10mbps`, `100mpbs`, `1gbps`, `10gbps`)
+    -   Speed (enumerator of `10mbps`, `100mbps`, `1gbps`, `10gbps`)
 
     -   Length (ft, decimal-type)
 
